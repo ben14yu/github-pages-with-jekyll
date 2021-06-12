@@ -1,4 +1,7 @@
-My first blog post!
+---
+title: "My first blog post!"
+date: 2021-06-12
+---
 
 My name is Ben Yu. I am a rising junior at East Brunswick High School
 
